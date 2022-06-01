@@ -32,7 +32,7 @@
     <ClInclude Include="Hazel\src\Hazel\EntryPoint.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Hazel\src\Hazel\Hazel.h">
+    <ClInclude Include="Hazel\src\Hazel.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="Hazel\src\Hazel\Log.h">
