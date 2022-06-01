@@ -2,11 +2,11 @@
 
 // for use by Ge applications
 
-#include "Application.h" 
+#include "Hazel/Application.h"
 #include <stdio.h> 
-#include <Log.h> 
+#include <Hazel/Log.h> 
 
 
 // entrypoint -----
-#include "EntryPoint.h" 
+#include "Hazel/EntryPoint.h" 
 // entrypoint -----
