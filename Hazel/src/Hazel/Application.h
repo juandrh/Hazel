@@ -4,7 +4,7 @@
 namespace Hazel {
 
 
-	class GE_API Application
+	class HZ_API Application
 	{
 	public:
 		Application();
